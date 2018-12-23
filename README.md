@@ -1,5 +1,5 @@
 # NetBeans MacOS Bundle Version 10
-When I originally put this little project together it was intended to be a tempoary quick way to get NetBeans installed on a Mac. I did not anticipate the amount of feedback I have received (which is very much appreciated) and that has caused me to make a few changes along the way.
+I put this small project together, to be a quick and temporary way to install NetBeans on a Mac.
 
 First off, you should either clone or download this project if you want to use the original install script.
 
