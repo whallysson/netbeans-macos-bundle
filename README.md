@@ -6,7 +6,7 @@ First off, you should either clone or download this project if you want to use t
 To run it, use the install.sh script. The user is prompted for the password because the script includes "sudo's" to gain permission to the /Applications folder.
 
 ### Installation
-
+Open the terminal:
 ````
 cd Downloads
 git clone https://github.com/whallysson/netbeans-macos-bundle.git
